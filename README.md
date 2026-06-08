@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Placement_Prep-FF5733?style=for-the-badge&logo=Target&logoColor=white" />
   <img src="https://img.shields.io/badge/Specialization-Machine_Learning-2E8B57?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Domain-Computer_Vision-8A2BE2?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
