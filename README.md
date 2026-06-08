@@ -22,16 +22,10 @@
 
 ## 🚀 Live GitHub Dashboard
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Febro24&show_icons=true&theme=dark&hide_border=false&title_color=3B82F6&icon_color=3B82F6&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febro24&layout=compact&theme=dark&hide_border=false&title_color=3B82F6" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+| 📊 Profile Analytics | ⚡ Tech Metrics |
+| :--- | :--- |
+| ![Commits](https://img.shields.io/github/commits-per-week/Febro24?style=flat-square&color=3B82F6&label=Activity) | ![Repo Count](https://img.shields.io/github/directory-file-count/Febro24/Febro24?style=flat-square&color=3B82F6&label=Repositories) |
+| ![Latest Update](https://img.shields.io/github/last-commit/Febro24/Febro24?style=flat-square&color=2E8B57&label=Latest+Push) | ![Followers](https://img.shields.io/github/followers/Febro24?style=flat-square&color=8A2BE2&label=Network) |
 
 ---
 
