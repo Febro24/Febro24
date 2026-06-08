@@ -15,7 +15,6 @@ on:
 
 jobs:
   generate:
-    runs-down: true
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
