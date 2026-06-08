@@ -20,15 +20,6 @@
 
 ---
 
-## 🚀 Live GitHub Dashboard
-
-| 📊 Profile Analytics | ⚡ Tech Metrics |
-| :--- | :--- |
-| ![Commits](https://img.shields.io/github/commits-per-week/Febro24?style=flat-square&color=3B82F6&label=Activity) | ![Repo Count](https://img.shields.io/github/directory-file-count/Febro24/Febro24?style=flat-square&color=3B82F6&label=Repositories) |
-| ![Latest Update](https://img.shields.io/github/last-commit/Febro24/Febro24?style=flat-square&color=2E8B57&label=Latest+Push) | ![Followers](https://img.shields.io/github/followers/Febro24?style=flat-square&color=8A2BE2&label=Network) |
-
----
-
 ## 🌟 Featured Engineering Projects
 
 ### 🎨 EmoDraw
@@ -48,15 +39,16 @@
 
 ---
 
-## 🎯 Placement Readiness Check
-
-- [x] Core Data Structures & Algorithms (C / C++)
-- [x] Deep Learning Model Optimization (CNNs)
-- [x] Computer Science Fundamentals (OOPs, DBMS, OS)
-- [ ] Technical Interview Rounds & Placement Drive Matching
-
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Febro24/count.svg" alt="Visitor Counter" />
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/febaroy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/feba_.roe____" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
 </p>
