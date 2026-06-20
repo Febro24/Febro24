@@ -26,7 +26,7 @@
 * Trained custom models to analyze, parse, and bridge human emotion matrix data with immediate dynamic visual canvases.
 * `Python` • `Machine Learning` • `Computer Vision`
 
-### 🗑️ DumpDetect
+### 🗑️ DumpDetec
 > **Custom Deep Learning Model**
 * Built and optimized a deep **Convolutional Neural Network (CNN)** architecture from scratch to process, classify, and track image frames for automated debris and macro-waste detection.
 * `CNN` • `Deep Learning` • `Image Classification`
@@ -37,11 +37,7 @@
 * `C++` • `OOPs` • `System Design`
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Febro24/Febro24/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
-</p>
 
----
 
 ## 🌐 Connect With Me
 
